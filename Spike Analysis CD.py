@@ -6,7 +6,7 @@ import matplotlib as mpl
 
 # Load Data
 data = pd.read_csv(
-read.csv()
+read.csv(
 
 
 # Process Data
